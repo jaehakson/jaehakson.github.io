@@ -12,7 +12,7 @@ author_profile: true
 ### Preprints (review/revision)
 **Son JH**, Lawlor MA, Virani M, Cao W, Levine MT, Ellison C. (2025)
 Convergence and conflict among telomere-specialized transposons across 60 million years of Drosophilid evolution.<br>
-[bioRxiv 2025](https://doi.org/10.1101/2025.06.09.658640){:target="_blank"} (in 2nd revision, April 2026, _Genome Research_)
+[bioRxiv 2025](https://doi.org/10.1101/2025.06.09.658640){:target="_blank"} (2nd revision under review, April 2026, _Genome Research_)
 
 
 ### Articles
@@ -24,7 +24,7 @@ Divergent evolution of male-determining loci on different proto-Y chromosomes of
 Genomic evidence of sex chromosome aneuploidy and infection-associated genotypes in the tsetse fly _Glossina fuscipes_, the major vector of African trypanosomiasis in Uganda.<br>
 [Infection, Genetics and Evolution, 105501](https://doi.org/10.1016/j.meegid.2023.105501){:target="_blank"}
 
-9) **Son JH**<sup>✝︎</sup>, Weis<sup>✝︎</sup>, Schneider DI, Dera KM, Gstöttenmayer F, Opiro R, Echodu R, Saarman NP, Attardo GM, Onyango M, et al. (2021) 
+9) **Son JH**<sup>✝︎</sup>, Weiss BL<sup>✝︎</sup>, Schneider DI, Dera KM, Gstöttenmayer F, Opiro R, Echodu R, Saarman NP, Attardo GM, Onyango M, et al. (2021) 
 Infection with endosymbiotic Spiroplasma disrupts tsetse (_Glossina fuscipes fuscipes_) metabolic and reproductive homeostasis.<br>
 [PLoS pathogens, 17(9): e1009539.](https://doi.org/10.1371/journal.ppat.1009539){:target="_blank"}
 
