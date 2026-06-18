@@ -6,7 +6,7 @@ author_profile: true
 ---
 ([Google Scholar](https://scholar.google.com/citations?hl=en&user=6dSW550AAAAJ&view_op=list_works&authuser=1&sortby=pubdate){:target="_blank"})
 
-<sup>*</sup>Correspondance<br>
+<sup>*</sup>Correspondence<br>
 <sup>✝︎</sup>Equal Contribution
 
 ### Preprints (review/revision)
